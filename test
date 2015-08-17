@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<script type="text/javascript" src="test.js"></script>
+<title> Collatz Conjecture Algorithm </title>
+</head>
+<body>
+ <form>
+	Some number: <input type="number" id="n"> <br>
+	<input type="button" onclick="t ()" value="submit">
+</form>
+</body>
+</html>
